@@ -1,4 +1,4 @@
-first you have to create a virtual environment for jupiterbot by using conda
+>first you have to create a virtual environment for jupiterbot by using conda
 in this environment we use python version 3.8 because rasa doesn't support python new version
 ```
 conda create --name jupiterbot python==3.8
