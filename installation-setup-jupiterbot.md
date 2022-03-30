@@ -5,7 +5,7 @@ conda create --name jupiterbot python==3.8
 ```
 now you have to activate this environment by using this command
 ```
-conda activate jupitebot
+conda activate jupiterbot
 ```
 now you have to download the update version of pip
 ```
