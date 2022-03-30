@@ -17,7 +17,13 @@ we have also another way to upgrade pip by using this command
 ```
 python -m pip install --upgrade pip
 ```
-
+before downloading rasa using pip you need to install some prerequisite of rasa
+```
+conda install ujson
+```
+```
+conda install tensorflow
+```
 now we finally install rasa by using this command
 ```
 pip install rasa
