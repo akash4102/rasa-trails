@@ -50,3 +50,7 @@ rasa shell
 ```
 rasa init
 ```
+>if you want to delete conda environment
+```
+conda env remove -n jupiterbot
+```
