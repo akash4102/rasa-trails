@@ -1,7 +1,6 @@
 # installing rasa with conda and pip
 
 
-
 ```
 
 conda create --name rasa python==3.8
