@@ -82,7 +82,7 @@ rasa interactive
 ```
 rasa run
 ```
->command to generate visual representaton of your stories
+>command to generate visual representaton of your stories this command will show you graph of your stores
 ```
 rasa visualize
 ```
