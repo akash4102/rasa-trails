@@ -1,11 +1,11 @@
->first you have to create a virtual environment for jupiterbot by using conda
+>first you have to create a virtual environment for BOT-NAME by using conda
 in this environment we use python version 3.8 because rasa doesn't support python new version
 ```
-conda create --name jupiterbot python==3.8
+conda create --name BOT-NAME python==3.8
 ```
 >now you have to activate this environment by using this command
 ```
-conda activate jupiterbot
+conda activate BOT-NAME
 ```
 >now you have to download the update version of pip
 ```
